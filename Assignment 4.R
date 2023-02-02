@@ -25,4 +25,4 @@ hist(hospital.df$Second, main= "Histogram Second doctor evaluation", xlab= "Bloo
 hist(hospital.df$Final, main= "Histogram Final doctor evaluation", xlab= "Blood Pressure")
 
 mean(Final)
-
+[0.6]
